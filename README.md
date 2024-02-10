@@ -6,7 +6,7 @@
 
 ---
 
-### Socials:
+### 🌐 Socials:
 
 <div>
   <a href="https://www.linkedin.com/in/alnick-clores-469307243/" target="_blank">
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-### Reach Me:
+### 👋🏼 Reach Me:
 
 <div align="left">
   <a href="mailto:aelnickclores@gmail.com" target="_blank">
@@ -34,7 +34,7 @@
   </a>
 </div>
 
-### Current Status Quo:
+### 👨‍💻 Current Status Quo:
 
 - 💻 3rd Year BSIT Student<br>
 - 🔍 I'm looking for connection in <strong>Web Development</strong> and <strong>Software Engineering</strong> Industry
@@ -42,7 +42,7 @@
 
 ---
 
-### Tools I work upon:
+### 🖥️ Tools I work upon:
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo"  />
