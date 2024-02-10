@@ -1,6 +1,8 @@
-![o](https://github.com/AlnickClores/AlnickClores/assets/91898057/edbd45e5-e752-409f-b228-63ba2c5e9342)
+  <a href="https://alnickclores.github.io/alnickcloresdev/src/index.html" target="_blank">
+    <img src="assets/alnick.png" />
+  </a>
 
-------------------------------------------- 
+---
 
 ### Socials:
 
@@ -22,7 +24,6 @@
   </a>
 </div>
 
-
 ### Reach Me:
 
 <div align="left">
@@ -37,7 +38,7 @@
 - 🔍 I'm looking for connection in <strong>Web Development</strong> and <strong>Software Engineering</strong> Industry
 - ☁️ Feel free to talk with me about <strong>Web Development </strong>, <strong>Software Engineering</strong> and <strong>Gaming topics</strong>
 
-------------------------------------------- 
+---
 
 ### Tools I work upon:
 
@@ -56,7 +57,8 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="28" alt="trello logo"  />
 </div>
 
-------------------------------------------- 
+---
+
 ### Profile Visits:
 
 <img src="https://profile-counter.glitch.me/AlnickClores/count.svg?"  />
