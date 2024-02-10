@@ -26,7 +26,7 @@
 ### Reach Me:
 
 <div align="left">
-  <a href="aelnickclores@gmail.com" target="_blank">
+  <a href="mailto:aelnickclores@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=aelnickclorers@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
 </div>
