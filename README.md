@@ -35,7 +35,7 @@
 
 - 💻 3rd Year BSIT Student<br>
 - 🔍 I'm looking for connection in <strong>Web Development</strong> and <strong>Software Engineering</strong> Industry
-- ☁️ Feel free to talk with me about <strong>Web Development, Software Engineering and Gaming topics </strong>
+- ☁️ Feel free to talk with me about <strong>Web Development </strong>, <strong>Software Engineering</strong> and <strong>Gaming topics</strong>
 
 ------------------------------------------- 
 
@@ -55,3 +55,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt="git logo"  />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="28" alt="trello logo"  />
 </div>
+
+------------------------------------------- 
+### Profile Visits:
+
+<img src="https://profile-counter.glitch.me/AlnickClores/count.svg?"  />
