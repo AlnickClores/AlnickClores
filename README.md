@@ -2,35 +2,26 @@
     <img src="assets/banner.gif" />
   </a>
 
-### <p align="center">🌐 Visit my <a href="https://alnickdev2.netlify.app/" target="_blank">Portfolio Website</a></p>
+### <p align="center">👋🏼 Visit my <a href="https://alnickdev.me/" target="_blank">Portfolio Website</a></p>
 
 ---
 
 <h2 align="left">🌐 Socials</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alnick-clores-469307243/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=AlnickClores&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/knoootz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=AlnickClores&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/alnick.clores/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=AlnickClores&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
-  </a>
-</div>
-
-<h2 align="left">👋🏼 Reach me</h2>
-
 <div align="center">
   <a href="aelnickclores@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=aelnickclorers@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alnickdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@alnick" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MEDIUM&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="medium logo"  />
   </a>
 </div>
 
 <h2 align="left">👨‍💻 Current Status Quo</h2>
 
-<p align="left">• 💻 4th Year BSIT Student<br>• 🔍 I'm looking for connection in Full Stack Web Development and Software Engineering Industry<br>• ☁️ Feel free to talk with me about Web Development, Software Engineering and Gaming topics</p>
+<p align="left">• 💻 Frontend Engineer<br>• 🔍 I'm looking for connection in Full Stack Web Development and Software Engineering Industry<br>• ☁️ Feel free to talk with me about Web Development, Software Engineering and Gaming topics</p>
 
 <h2 align="left">🖥️ Tech Stack</h2>
 
@@ -54,7 +45,7 @@
 ###
 </div>
 
-<h2 align="left">Development Environtment</h2>
+<h2 align="left">⚙️ Development Environtment</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt="git logo"  />
@@ -65,7 +56,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="28" alt="trello logo"  />
 </div>
 
-<h2 align="left">Profile Visits</h2>
+<h2 align="left">📊 Profile Visits</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlnickClores/count.svg?"  />
