@@ -21,7 +21,7 @@
 
 <h2 align="left">👨‍💻 Current Status Quo</h2>
 
-<p align="left">• 💻 Frontend Engineer<br>• 🔍 I'm looking for connection in Full Stack Web Development and Software Engineering Industry<br>• ☁️ Feel free to talk with me about Web Development, Software Engineering and Gaming topics</p>
+<p align="left">• 💻 Fullstack Developerr<br>• 🔍 I'm looking for connection in Full Stack Web Development and Software Engineering Industry<br>• ☁️ Feel free to talk with me about Web Development, Software Engineering and Gaming topics</p>
 
 <h2 align="left">🖥️ Tech Stack</h2>
 
