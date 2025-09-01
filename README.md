@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" alt="nextjs logo"  />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="28" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="28" alt="express logo"  />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" alt="express logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="mysql logo"  />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" alt="mongodb logo"  />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="28" alt="firebase logo"  />
@@ -55,10 +54,4 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="28" alt="androidstudio logo"  />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="28" alt="postman logo"  />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="28" alt="trello logo"  />
-</div>
-
-<h2 align="left">📊 Profile Visits</h2>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlnickClores/count.svg?"  />
 </div>
