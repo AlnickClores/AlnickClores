@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hello, I'm **[Alnick Clores!](https://alnickdev.me)** I'm a **Full Stack Developer**. I have 2 years of hands-on experience building scalable web applications and intuitive user interfaces. I focus on turning complex problems into clean, maintainable solutions. 
+Hello, I'm **[Alnick Clores!](https://alnickdev.me)** I'm a **Full Stack Developer**. I build scalable web applications and intuitive user interfaces. I focus on turning complex problems into clean, maintainable solutions. 
 
 I’ve built full stack projects ranging from productivity tools to real-time collaborative apps. I love contributing to a organization and helping bring ideas to life through code.
 
